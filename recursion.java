@@ -1,4 +1,3 @@
-package java_programming;
 
 public class recursion {
     public static void towerOfHanoi(int n, String src, String helper, String dest) {
